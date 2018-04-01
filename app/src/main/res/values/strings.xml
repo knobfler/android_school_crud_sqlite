@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">android_sqlite_dbhelper</string>
+    <string name="title_activity_insert">InsertActivity</string>
+</resources>
